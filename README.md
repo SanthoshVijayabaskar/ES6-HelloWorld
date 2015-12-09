@@ -1,6 +1,3 @@
-# ES6-HelloWorld
-Hello World Program on ES6 Using Babel
-
 # Hello World Program :pray:
 
 <h5>STEP 1: Setup Babel CommandLine Utility [https://babeljs.io/docs/setup/]</h5>
