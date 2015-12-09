@@ -1,0 +1,1 @@
+{"version":3,"sources":["../src/main.js"],"names":[],"mappings":"AAAA,YAAY,CAAC;;AACb,IAAI,QAAQ,gBAAgB,CAAC;AAC7B,OAAO,CAAC,GAAG,CAAC,QAAQ,CAAC,CAAC","file":"main.js","sourcesContent":["\"use strict\";\r\nlet greeting = `Hello World`;\r\nconsole.log(greeting);"]}
